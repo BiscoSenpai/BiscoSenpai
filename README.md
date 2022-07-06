@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **biscosenpai951@gmail.com**
 
-- 📄 Know about my experiences [I'm a Full-Stack Developer, I have a lot of experience in: Languages(HTML, CSS, SASS, LESS, JavaScript, TypeScript, PHP), Frameworks (Angular, Express, Ember, Vue, Next, Electron, Laravel), Libraries (Anime, Chart, Discord, D3, EcmaScript, Eris, jQuery, React, Bootstrap, AOS) and DataBases (MySQL, Mongodb ,Quickdb, STdb)](I'm a Full-Stack Developer, I have a lot of experience in: Languages(HTML, CSS, SASS, LESS, JavaScript, TypeScript, PHP), Frameworks (Angular, Express, Ember, Vue, Next, Electron, Laravel), Libraries (Anime, Chart, Discord, D3, EcmaScript, Eris, jQuery, React, Bootstrap, AOS) and DataBases (MySQL, Mongodb ,Quickdb, STdb))
+- 📄 Know about my experiences [I'm a Full-Stack Developer, I have a lot of experience in languages: HTML, CSS, SASS, LESS, JavaScript, TypeScript, PHP]
 
 - ⚡ Fun fact **I think I'm a pervert**
 
