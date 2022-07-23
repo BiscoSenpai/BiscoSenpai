@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BiscoSenpai&label=Profile%20views&color=0e75b6&style=flat" alt="BiscoSenpai" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BiscoSenpai&show_icons=true&locale=en" alt="BiscoSenpai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BiscoSenpai&show_icons=true&locale=en&theme=chartreuse-dark" alt="BiscoSenpai" /></p>
 
 <p align="left"> <a href="https://twitter.com/BiscoSenpai" target="blank"><img src="https://img.shields.io/twitter/follow/BiscoSenpai?logo=twitter&style=for-the-badge" alt="BiscoSenpai" /></a> </p>
 
