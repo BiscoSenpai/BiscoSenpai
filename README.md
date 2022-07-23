@@ -2,8 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BiscoSenpai&label=Profile%20views&color=0e75b6&style=flat" alt="BiscoSenpai" /> </p>
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BiscoSenpai&show_icons=true&hide_title=true&theme=chartreuse-dark" /> </p>
+
 <p align="left"> <a href="https://twitter.com/BiscoSenpai" target="blank"><img src="https://img.shields.io/twitter/follow/BiscoSenpai?logo=twitter&style=for-the-badge" alt="BiscoSenpai" /></a> </p>
 
+
+
+------------
 - 📫 How to reach me: **Bisco Senpai#1787**
 
 - 📄 Know about my experiences: I'm a Full-Stack Developer, I have a lot of experience in languages: HTML, CSS, SASS, LESS, JavaScript, TypeScript, PHP
